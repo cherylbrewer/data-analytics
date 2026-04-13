@@ -12,9 +12,9 @@ Anonymized case studies from my work in healthcare revenue cycle data analysis. 
 
 ## Files
 
-- [Payor Recovery Case Study](./Payor_Recovery_CaseStudy.pdf)
-- [HL7 Decimal Fix Case Study](./HL7_Decimal_Fix_CaseStudy.pdf)
-- [Address Reconciliation Case Study](./Address_Reconciliation_CaseStudy.pdf)
+- [Payor Recovery Case Study](./Payor_Recovery_Case_Study.pdf)
+- [HL7 Decimal Fix Case Study](./HL7_Decimal_Fix_Case_Study.pdf)
+- [Address Reconciliation Case Study](./Address_Reconciliation_Case_Study.pdf)
 
 ---
 
