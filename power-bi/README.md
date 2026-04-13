@@ -5,14 +5,14 @@
 - **Solution:** One-click reconciliation dashboard comparing Net Expected vs. Amount Received
 - **Result:** 5-hour manual audit reduced to 5-second refresh
 
+📊 [View PDF - Revenue Integrity & Reconciliation Suite](./Revenue_Integrity_Suite.pdf)
+
 ## Finance Report - Executive Summary
 - High-level KPIs for leadership review
 - Dynamic date slicer and variance tracking
 
-## Files
+📊 [View PDF - Finance Report Sample - Power BI](./Finance_Report_Sample.pdf)
 
-- [Revenue Intergrity and Reconciliation Suite](./Revenue Integrity and Reconciliation Suite.pdf)
-- [Finance Report - Executive Summary](./Finance Report Sample - Power BI.pdf)
+---
 
-  
-
+*Return to [main portfolio](../README.md)*
