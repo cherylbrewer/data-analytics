@@ -4,7 +4,7 @@ Remote data analyst specializing in multi-system reconciliation, exception detec
 
 **Resume available upon request** | [LinkedIn](https://www.linkedin.com/in/cheryl-brewer-cpb-276237199)
 
-[Portfolio Preview](Sample Financials Visual.png)
+![Portfolio Preview](Sample Financials Visual.png)
 
 ---
 
