@@ -9,4 +9,10 @@
 - High-level KPIs for leadership review
 - Dynamic date slicer and variance tracking
 
-*PDF previews available in this folder.*
+## Files
+
+- [Revenue Intergrity and Reconciliation Suite](./Revenue Integrity and Reconciliation Suite.pdf)
+- [Finance Report - Executive Summary](./Finance Report Sample - Power BI.pdf)
+
+  
+
