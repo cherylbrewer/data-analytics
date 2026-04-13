@@ -1,6 +1,6 @@
 # Cheryl Brewer – Data Analytics Portfolio
 
-Remote data analyst specializing in revenue cycle (healthcare or non), multi-system reconciliation, and exception detection. Proficient in Excel (advanced), Power BI, Tableau, and SQL.
+Remote data analyst specializing in multi-system reconciliation, exception detection, and transaction-level auditing. Proficient in Excel (advanced), Power BI, Tableau, and SQL.
 
 **Resume available upon request** | [LinkedIn](https://www.linkedin.com/in/cheryl-brewer-cpb-276237199)
 
@@ -27,4 +27,4 @@ Remote data analyst specializing in revenue cycle (healthcare or non), multi-sys
 
 ## About These Case Studies
 
-All case studies are anonymized. No patient, payor, or employer identifiers appear. The work represents actual projects completed during my roles in healthcare revenue cycle operations.
+All case studies are anonymized. The work represents actual projects completed during my roles in operations and data analysis. Skills are fully transferable to any industry with transaction data, system integrations, and exception reporting.
