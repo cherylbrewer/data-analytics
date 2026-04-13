@@ -2,7 +2,7 @@
 
 Remote data analyst specializing in multi-system reconciliation, exception detection, and transaction-level auditing. Proficient in Excel (advanced), Power BI, Tableau, and SQL.
 
-**Resume available upon request** | [LinkedIn](https://www.linkedin.com/in/cheryl-brewer-cpb-276237199) | **Open for freelance/contract work**
+**Resume available upon request** | [LinkedIn](https://www.linkedin.com/in/cheryl-brewer-cpb-276237199/) | **Open for freelance/contract work**
 
 ![Portfolio Preview](Sample_Power_BI.png)
 
